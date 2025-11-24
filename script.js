@@ -15,5 +15,5 @@ document.getElementById('contact-form').addEventListener('submit', function (e) 
   this.reset();
 });
 
-We are adding some some 
+We are adding some data
 and intergatred with jenkins
